@@ -1,0 +1,11 @@
+.box{
+    width: 500px;
+    height: 200px;
+    border-radius: 40px;
+    border-top-left-radius: 10px;
+    border-top: 5px solid red;
+    background-color: white;
+}
+body{
+    background-color: pink;
+}
